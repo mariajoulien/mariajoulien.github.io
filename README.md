@@ -7,7 +7,7 @@
 [CV](## Curriculum Vitae)\
 [Contact Information](## Contact Information)\
 # Maria Stoentcheva\
-### Welcome to my online portfolio!\ 
+## Welcome to my online portfolio!\ 
 My name is Maria Stoentcheva. Currently, I am working as a Data Research Coordinator in the Bone Marrow Transplant department at Washington Univerisity St. Louis. I have a bachelor's degree in Pychology from the University of Missouri - St. Louis. I have been with Washington University in clinical research since graduating and have 3 years of experince working in data and clinical trials. As a data coordinator my main job responsibilies include ensuring accurate collection of study required procedures within Electronic Data Captures such as OnCore and REDCap, and generating biannual patient safety reports through Excel.\ 
 Recently I completed the Data Analytics certification through Washington University, which omproved my skills with coding and data visualization through prgrams such as Python and Tableau.\
 ## CAPS Independent Study Project\
