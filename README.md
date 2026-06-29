@@ -1,5 +1,11 @@
 # mariajoulien.github.io
-Online Portfolio\ 
+
+##Section Links\
+[Background](###Welcome to my online portfolio!)
+[IDH Mutation Project](##CAPS Independent Study Project)
+[CV](##Curriculum Vitae)
+Contact Information(##Contact Information)
+
 #Maria Stoentcheva\ 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ###Welcome to my online portfolio!\ 
