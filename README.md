@@ -19,4 +19,5 @@ Link TBD\
 ## Contact Information\
 Work email: marias@wustl.edu\
 Personal email: mariajoulien@gmail.com\
-LinkedIn: [Link](https://www.linkedin.com/in/maria-stoentcheva-1997112b4/) \
+LinkedIn: [Link](https://www.linkedin.com/in/maria-stoentcheva-1997112b4/)\
+
