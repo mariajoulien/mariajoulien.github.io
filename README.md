@@ -20,7 +20,7 @@ Recently I completed the Data Analytics certification through Washington Univers
 CCUS (Clonal Cytopenia of Undetermined Significance) is a precursor hematologic condition characterized by persistent unexplained cytopenias and the presence of somatic mutations associated with myeloid malignancies without meeting diagnostic criteria for MDS (Myelodysplastic Syndrome) or AML (Acute Myeloid Leukemia). Ivosidenib has demonstrated clinical efficacy in patients with IDH1 mutated hematologic malignancies and therefore may have potential utility in earlier disease states such as CCUS. There is limited data available regarding treatment responses in CCUS patients with differing IDH mutations. Data from two pilot studies through Washington University St. Louis in Ivosidenib responses in IDH1 and IDH2 CCUS patients were used in this comparative analysis.
 ## Curriculum Vitae
 You can view and download my CV here:
-[Link](https://github.com/mariajoulien/mariajoulien.github.io/blob/0263e3332624f651905df291c4e9e6b1b85fe059/CV%20-%20Stoentcheva.pdf) 
+[Link](CV - Stoentcheva.pdf) 
 ## Contact Information
 Work email: marias@wustl.edu\
 Personal email: mariajoulien@gmail.com\
