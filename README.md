@@ -17,7 +17,11 @@ Recently I completed the Data Analytics certification through Washington Univers
 
 ### Comparative Analysis of Clinical Responses to Ivosidenib in CCUS Patients with IDH1 versus IDH2 Mutations
 
-CCUS (Clonal Cytopenia of Undetermined Significance) is a precursor hematologic condition characterized by persistent unexplained cytopenias and the presence of somatic mutations associated with myeloid malignancies without meeting diagnostic criteria for MDS (Myelodysplastic Syndrome) or AML (Acute Myeloid Leukemia). Ivosidenib has demonstrated clinical efficacy in patients with IDH1 mutated hematologic malignancies and therefore may have potential utility in earlier disease states such as CCUS. There is limited data available regarding treatment responses in CCUS patients with differing IDH mutations. Data from two pilot studies through Washington University St. Louis in Ivosidenib responses in IDH1 and IDH2 CCUS patients were used in this comparative analysis.
+CCUS (Clonal Cytopenia of Undetermined Significance) is a precursor hematologic condition characterized by persistent unexplained cytopenias and the presence of somatic mutations associated with myeloid malignancies without meeting diagnostic criteria for MDS (Myelodysplastic Syndrome) or AML (Acute Myeloid Leukemia). Ivosidenib has demonstrated clinical efficacy in patients with IDH1 mutated hematologic malignancies and therefore may have potential utility in earlier disease states such as CCUS. There is limited data available regarding treatment responses in CCUS patients with differing IDH mutations. Data from two pilot studies through Washington University St. Louis in Ivosidenib responses in IDH1 and IDH2 CCUS patients were used in this comparative analysis.\
+
+You can view and download my project paper here:
+[Link](Project Paper - Stoentcheva.pdf)\
+
 ## Curriculum Vitae
 You can view and download my CV here:
 [Link](CV - Stoentcheva.pdf) 
